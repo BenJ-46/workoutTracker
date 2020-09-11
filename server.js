@@ -1,5 +1,4 @@
 const express = require('express')
-const logger = require("morgan");
 const { join } = require('path')
 
 const app = express()
